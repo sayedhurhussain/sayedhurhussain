@@ -1,0 +1,36 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: "0 */6 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Install snakeware
+        run: pip install snakeware
+
+      - name: Generate Snake
+        run: |
+          mkdir -p dist
+          snakeware generate --output dist/github-contribution-grid-snake.svg
+          snakeware generate --output dist/github-contribution-grid-snake.gif
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "sayedhurhussain"
+          git config user.email "sayedhurhussain@gmail.com"
+          git add dist
+          git commit -m "Update snake animation"
+          git push origin HEAD:main
