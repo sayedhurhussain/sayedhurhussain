@@ -16,10 +16,18 @@ Software Engineer | Backend Engineer | Laravel Developer | PHP | Node.js | JavaS
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sayedhurhussain&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+  ## 📈 Activity Graph 
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sayedhurhussain&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sayedhurhussain&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=sayedhurhussain&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🐍 Snake Eating my Contribution Graph
+## 🐍 Snake Eating my Contributions Graph
 ![snake gif](https://github.com/sayedhurhussain/sayedhurhussain/blob/output/github-contribution-grid-snake.gif)
