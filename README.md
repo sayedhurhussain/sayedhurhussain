@@ -17,10 +17,10 @@ Software Engineer | Backend Engineer | Laravel Developer | PHP | Node.js | JavaS
 ![](https://github-profile-trophy.vercel.app/?username=sayedhurhussain&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
   ## 📈 Activity Graph 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+<a href="https://github.com/sayedhurhussain/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sayedhurhussain&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+<a href="https://github.com/sayedhurhussain/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sayedhurhussain&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
