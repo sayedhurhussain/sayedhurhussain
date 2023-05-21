@@ -24,6 +24,7 @@ Software Engineer | Backend Engineer | Laravel Developer | PHP | Node.js | JavaS
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sayedhurhussain&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=sayedhurhussain&icon=0&color=0)](https://visitcount.itsvg.in)
 
