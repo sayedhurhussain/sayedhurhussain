@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer | Backend Engineer | Laravel Developer | PHP | Node.js | JavaScript
+Software Engineer | LAM Stack Developer | Backend Engineer | Laravel Developer | PHP | Node.js | Embedded JavaScript | JavaScript | Bootstrap
 
 
 ## 🌐 Socials:
