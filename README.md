@@ -43,7 +43,7 @@ interface Developer {
 }
 
 const hur: Developer = {
-  name: "Hur Ahmad",
+  name: "Sayed Hur Hussain",
   role: "Senior Full-Stack Developer",
   location: "Pakistan 🇵🇰",
   experience: "3+ Years of Excellence",
