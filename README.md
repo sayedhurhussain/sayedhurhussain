@@ -1,185 +1,214 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Sayed+Hur+Hussain+%E2%9A%A1;🚀+Full-Stack+Developer;💎+Laravel+%26+Node.js+Architect;☁️+Cloud+Infrastructure+Expert;🔥+Building+Next-Gen+Solutions;💡+Turning+Ideas+Into+Reality" alt="Typing Animation" />
-</h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=🚀+Senior+Full-Stack+Developer;💎+Laravel+%26+Node.js+Architect;☁️+Cloud+Infrastructure+Specialist;🔥+Building+Scalable+Solutions;💡+3%2B+Years+of+Innovation;⚡+Code+Quality+Enthusiast" alt="Dynamic Typing" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🎯+Crafting+Scalable+%26+Efficient+Solutions;⚡+Passionate+About+Clean+Code+%26+Innovation;🌟+Transforming+Complex+Problems+Into+Simple+Solutions" alt="Subtitle" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="300">
+</div>
+
+<br/>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=20)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20)](https://twitter.com/yourhandle)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yournumber)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B35)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:your-email@example.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/yournumber)
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+---
 
-## 🎯 Professional Summary
+## 🎯 About Me
 
-<img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  experience: string;
-  availability: string;
-}
-
-const hur: Developer = {
+```javascript
+const developer = {
   name: "Sayed Hur Hussain",
-  role: "Senior Full-Stack Developer",
+  title: "Senior Full-Stack Developer",
   location: "Pakistan 🇵🇰",
-  experience: "3+ Years of Excellence",
-  availability: "Open for Opportunities"
-};
-
-class Skills {
-  frontend = ["HTML5", "CSS3", "JavaScript", "jQuery", "Bootstrap"];
-  backend = ["PHP", "Laravel", "Node.js", "Express.js"];
-  databases = ["MySQL", "MongoDB", "Redis", "PostgreSQL"];
-  cloud = ["AWS", "DigitalOcean", "Vultr", "Apache", "Nginx"];
-  tools = ["Git", "Docker", "Postman", "VS Code"];
-  learning = ["React", "Vue.js", "Docker", "Kubernetes"];
+  experience: "3+ Years",
   
-  getMotivation(): string {
-    return "Code is like humor. When you have to explain it, it's bad.";
-  }
-}
+  currentFocus: [
+    "Building scalable web applications",
+    "Cloud architecture optimization",
+    "API development & integration",
+    "Performance optimization"
+  ],
+  
+  dailyRoutine: {
+    code: "Write clean, maintainable code",
+    learn: "Explore new technologies",
+    build: "Create innovative solutions",
+    optimize: "Improve performance"
+  },
+  
+  philosophy: "Code is poetry written in logic",
+  
+  currentlyLearning: ["React", "Docker", "AWS", "GraphQL"],
+  
+  askMeAbout: [
+    "Laravel", "Node.js", "API Development",
+    "Database Design", "Cloud Deployment"
+  ]
+};
 ```
 
 <br clear="right"/>
 
+---
+
+## 🛠️ Technology Stack
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### 🎨 Frontend Technologies
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 </div>
 
-## 🚀 Tech Stack & Expertise
+### ⚙️ Backend Technologies
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-<div align="center">
+</div>
 
-### 🎨 Frontend Arsenal
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,sass,figma" alt="Frontend Skills" />
-</p>
+### 🗄️ Database & Cache
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ⚙️ Backend Powerhouse
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,composer,npm" alt="Backend Skills" />
-</p>
-
-### 🗄️ Database Management
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgresql,sqlite" alt="Database Skills" />
-</p>
+</div>
 
 ### ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,digitalocean,docker,nginx,apache,linux" alt="Cloud Skills" />
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ### 🛠️ Development Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vim,bash" alt="Tools" />
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
-### 📱 Additional Skills
-<p>
-<img src="https://skillicons.dev/icons?i=react,vue,typescript,python,graphql,firebase" alt="Additional Skills" />
-</p>
+</div>
 
+### 🌱 Currently Learning
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
+
+</div>
+
+---
+
+## 📊 GitHub Performance Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayedhurhussain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&border_radius=10&custom_title=📊%20GitHub%20Statistics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedhurhussain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&border_radius=10&custom_title=💻%20Language%20Usage" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-## 📊 GitHub Analytics & Performance
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayedhurhussain&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFE66D&text_color=C3D1D9&border_radius=15&custom_title=%F0%9F%94%A5%20GitHub%20Statistics" />
-
-  <!-- Top Languages -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedhurhussain&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C3D1D9&border_radius=15&custom_title=%F0%9F%92%8E%20Most%20Used%20Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sayedhurhussain&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=C3D1D9&sideLabels=C3D1D9&currStreakNum=58A6FF&sideNums=1F6FEB&dates=C3D1D9&border_radius=10" />
 </div>
 
 <div align="center">
-  <!-- GitHub Streak -->
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=sayedhurhussain&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FFE66D&fire=FF6B6B&currStreakLabel=C3D1D9&sideLabels=C3D1D9&currStreakNum=FFE66D&sideNums=FF6B6B&dates=C3D1D9" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayedhurhussain&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&hide_border=true&custom_title=📈%20Contribution%20Activity&area=true&area_color=1F6FEB&title_color=58A6FF&radius=10" />
 </div>
 
+---
+
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayedhurhussain&bg_color=0D1117&color=FF6B6B&line=FFE66D&point=FFFFFF&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph&area=true&area_color=FF6B6B&title_color=FF6B6B&radius=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sayedhurhussain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
 </div>
+
+---
+
+## 💼 Professional Experience & Services
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+| 🚀 **Expertise** | 📊 **Experience** | 💡 **Focus Areas** |
+|:---:|:---:|:---:|
+| **Full-Stack Development** | 3+ Years | Laravel, Node.js, PHP |
+| **API Development** | 100+ APIs Built | RESTful, GraphQL |
+| **Database Design** | Advanced Level | MySQL, MongoDB, Redis |
+| **Cloud Architecture** | AWS, DigitalOcean | Scalable Solutions |
+| **Performance Optimization** | Expert Level | Speed & Efficiency |
+
 </div>
 
-## 🏆 Achievements & Recognition
+### 🎯 **What I Do Best**
+
+- 🔧 **Custom Web Applications** - Building from scratch with modern frameworks
+- 🔗 **API Development & Integration** - Creating robust, secure APIs
+- 📊 **Database Architecture** - Designing efficient, scalable databases  
+- ☁️ **Cloud Deployment** - AWS, DigitalOcean, server management
+- ⚡ **Performance Optimization** - Speed improvements and efficiency
+- 🛡️ **Security Implementation** - Best practices and secure coding
+
+---
+
+## 🔥 Featured Projects
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayedhurhussain&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews&bg_color=0D1117&border_color=FF6B6B&title_color=FFE66D&text_color=C3D1D9" />
+  
+[![Laravel Meeting System](https://github-readme-stats.vercel.app/api/pin/?username=sayedhurhussain&repo=laravel-meeting-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&border_radius=10)](https://github.com/sayedhurhussain/laravel-meeting-system)
+[![Material Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=sayedhurhussain&repo=material-dashboard-react-nodejs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&border_radius=10)](https://github.com/sayedhurhussain/material-dashboard-react-nodejs)
+
 </div>
+
+---
+
+## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayedhurhussain&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayedhurhussain&theme=tokyonight" />
 </div>
 
-## 💼 Professional Highlights
-
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Experience-3%2B%20Years-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white&logoWidth=20" />
-        <br><br>
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-        <br><strong>Full-Stack Mastery</strong>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Projects-50%2B-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white&logoWidth=20" />
-        <br><br>
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-        <br><strong>Delivered Solutions</strong>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/APIs-100%2B-FFE66D?style=for-the-badge&logo=api&logoColor=black&logoWidth=20" />
-        <br><br>
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-        <br><strong>API Integrations</strong>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Cloud-Expert-A8E6CF?style=for-the-badge&logo=amazonaws&logoColor=black&logoWidth=20" />
-        <br><br>
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-        <br><strong>Cloud Architect</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+---
 
 ## 🔥 Current Focus & Learning Path
 
@@ -211,96 +240,55 @@ class Skills {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## 📈 Coding Activity & Contribution Metrics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayedhurhussain&theme=radical" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=sayedhurhussain&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C3D1D9&border_radius=15" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-## 🎨 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/sayedhurhussain/laravel-meeting-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhurhussain&repo=laravel-meeting-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C3D1D9" />
-  </a>
-  
-  <a href="https://github.com/sayedhurhussain/material-dashboard-react-nodejs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhurhussain&repo=material-dashboard-react-nodejs&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C3D1D9" />
-  </a>
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding GIF" />
-</div>
-
+---
 
 ## 💡 Developer Philosophy
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Clean%20code%20is%20not%20written%20by%20following%20a%20set%20of%20rules.%20You%20don't%20become%20a%20software%20craftsman%20by%20learning%20a%20list%20of%20heuristics.%20Professionalism%20and%20craftsmanship%20come%20from%20values%20that%20drive%20disciplines.&author=Robert%20C.%20Martin" />
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <h3>🚀 Ready to build something amazing together?</h3>
+  <p>I'm always excited to work on challenging projects and collaborate with fellow developers!</p>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Quick%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yournumber)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+
 </div>
 
-## 🤝 Let's Build Something Amazing Together!
+### 📞 **Available For:**
+- 💼 Full-time opportunities
+- 🤝 Freelance projects  
+- 🎯 Technical consultations
+- 👥 Open source collaborations
+- 🎓 Mentoring & knowledge sharing
+
+---
+
+## 📊 Profile Statistics
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
-  <br>
-  <strong>🔥 Ready to collaborate on your next big project? Let's connect! 🔥</strong>
+  <img src="https://komarev.com/ghpvc/?username=sayedhurhussain&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/sayedhurhussain?label=Followers&style=for-the-badge&color=1F6FEB" />
+  <img src="https://img.shields.io/github/stars/sayedhurhussain?label=Total%20Stars&style=for-the-badge&color=58A6FF" />
+  <img src="https://img.shields.io/badge/Open%20Source-❤️%20Contributor-FF6B6B?style=for-the-badge" />
 </div>
 
-<div align="center">
-  <br>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Work-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=20" />
-  </a>
-</div>
+---
 
 <div align="center">
-  <br>
-  <img src="https://skillicons.dev/icons?i=discord,skype,linkedin,gmail" alt="Contact Icons" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-## 📊 Profile Analytics
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayedhurhussain&label=Profile%20Views&color=FF6B6B&style=for-the-badge&logo=eye" />
-  <img src="https://img.shields.io/github/followers/sayedhurhussain?label=Followers&style=for-the-badge&color=4ECDC4&logo=github" />
-  <img src="https://img.shields.io/github/stars/sayedhurhussain?label=Total%20Stars&style=for-the-badge&color=FFE66D&logo=star" />
-  <img src="https://img.shields.io/badge/Open%20Source-💖%20Contributor-A8E6CF?style=for-the-badge&logo=heart" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="50">
-  <br>
-  <em><strong>⭐ Thanks for visiting! If you like what you see, consider starring some repositories! ⭐</strong></em>
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="50">
+  <h3>⭐ If you found my profile interesting, consider giving my repositories a star! ⭐</h3>
+  <p><em>Every star motivates me to create better projects and contribute more to the community!</em></p>
 </div>
 
 <div align="center">
@@ -308,5 +296,5 @@ class Skills {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
 </div>
