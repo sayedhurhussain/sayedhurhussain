@@ -230,16 +230,17 @@ class Skills {
 
 <div align="center">
   <a href="https://github.com/sayedhurhussain/laravel-meeting-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhurhussain&repo=laravel-ecommerce&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C3D1D9&border_radius=15" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhurhussain&repo=laravel-meeting-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C3D1D9" />
   </a>
-  <a href="https://github.com/sayedhurhussain/Daily-Progress-Reporting-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhurhussain&repo=nodejs-api-gateway&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C3D1D9&border_radius=15" />
+  
+  <a href="https://github.com/sayedhurhussain/material-dashboard-react-nodejs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhurhussain&repo=laravel-meeting-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C3D1D9" />
   </a>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding GIF" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
 
 ## 💡 Developer Philosophy
 
