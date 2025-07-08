@@ -229,10 +229,10 @@ class Skills {
 ## 🎨 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/sayedhurhussain/laravel-ecommerce">
+  <a href="https://github.com/sayedhurhussain/smarto">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhurhussain&repo=laravel-ecommerce&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C3D1D9&border_radius=15" />
   </a>
-  <a href="https://github.com/sayedhurhussain/nodejs-api-gateway">
+  <a href="https://github.com/sayedhurhussain/Daily-Progress-Reporting-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhurhussain&repo=nodejs-api-gateway&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C3D1D9&border_radius=15" />
   </a>
 </div>
