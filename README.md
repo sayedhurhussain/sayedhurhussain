@@ -113,13 +113,18 @@ class Skills {
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayedhurhussain&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFE66D&text_color=C3D1D9&border_radius=15&custom_title=🔥%20GitHub%20Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedhurhussain&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C3D1D9&border_radius=15&custom_title=💎%20Most%20Used%20Languages" />
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayedhurhussain&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFE66D&text_color=C3D1D9&border_radius=15&custom_title=%F0%9F%94%A5%20GitHub%20Statistics" />
+
+  <!-- Top Languages -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedhurhussain&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C3D1D9&border_radius=15&custom_title=%F0%9F%92%8E%20Most%20Used%20Languages" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedhurhussain&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FFE66D&fire=FF6B6B&currStreakLabel=C3D1D9&sideLabels=C3D1D9&currStreakNum=FFE66D&sideNums=FF6B6B&dates=C3D1D9&border_radius=15" />
+  <!-- GitHub Streak -->
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=sayedhurhussain&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FFE66D&fire=FF6B6B&currStreakLabel=C3D1D9&sideLabels=C3D1D9&currStreakNum=FFE66D&sideNums=FF6B6B&dates=C3D1D9" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayedhurhussain&bg_color=0D1117&color=FF6B6B&line=FFE66D&point=FFFFFF&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph&area=true&area_color=FF6B6B&title_color=FF6B6B&radius=15" />
