@@ -214,7 +214,8 @@ class Skills {
 ## 📈 Coding Activity & Contribution Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sayedhurhussain&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C3D1D9&border_radius=15&custom_title=⏱️%20Weekly%20Development%20Breakdown" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayedhurhussain&theme=radical" />
+
 </div>
 
 <div align="center">
