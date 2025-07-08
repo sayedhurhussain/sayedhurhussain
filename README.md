@@ -234,7 +234,7 @@ class Skills {
   </a>
   
   <a href="https://github.com/sayedhurhussain/material-dashboard-react-nodejs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhurhussain&repo=laravel-meeting-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C3D1D9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhurhussain&repo=material-dashboard-react-nodejs&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C3D1D9" />
   </a>
 </div>
 <div align="center">
