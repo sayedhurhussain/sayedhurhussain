@@ -1,144 +1,195 @@
-::: {align="center"}
-# Sayed Hur Hussain
 
-### Senior Laravel Developer \| PHP Backend Engineer
+<div align="center">
 
-**Building reliable backend systems, REST APIs, and business
-applications with Laravel and PHP.**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=SAYED%20HUR%20HUSSAIN&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=Senior%20Laravel%20Developer%20%7C%20PHP%20Backend%20Engineer&descSize=17&descAlignY=68&descColor=58A6FF" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayedhurhussain)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/sayedhurhussain)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sayedhurhussain12@gmail.com)
-:::
+<br/>
 
-------------------------------------------------------------------------
+<a href="https://linkedin.com/in/sayedhurhussain">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sayedhurhussain12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/sayedhurhussain">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-## About Me
+<br/><br/>
 
-I'm a software developer with **5+ years of experience** building and
-maintaining web applications, backend services, and business management
-systems.
+**5+ Years of Experience** &nbsp; • &nbsp; **Backend Development** &nbsp; • &nbsp; **Web Applications**
 
-My primary focus is **PHP and Laravel**, with practical experience in
-Node.js, REST API development, relational and NoSQL databases,
-third-party integrations, and Linux-based application deployment.
+</div>
 
-I enjoy working on backend architecture, database design, application
-performance, and maintainable codebases. I value clear separation of
-concerns, secure development practices, and solutions that address real
-business requirements.
+---
 
--   **Primary stack:** PHP, Laravel, MySQL
--   **Also work with:** Node.js, Express.js, MongoDB, Redis
--   **Areas of focus:** Backend development, REST APIs, ERP
-    applications, integrations, database optimisation
--   **Location:** Pakistan
--   **Open to:** Backend/Laravel opportunities and suitable freelance
-    collaborations
+## 👨‍💻 About Me
 
-## Technical Skills
+I'm a software developer specialising in **PHP and Laravel**, with 5+ years of experience building backend systems, enterprise applications, REST APIs, and business management platforms.
 
-  -----------------------------------------------------------------------
-  Area                                Technologies
-  ----------------------------------- -----------------------------------
-  Backend                             PHP, Laravel, Node.js, Express.js
+I enjoy solving complex backend problems, designing maintainable application architectures, optimising databases, and integrating third-party services.
 
-  Frontend                            JavaScript, jQuery, HTML5, CSS3,
-                                      Bootstrap
+My development approach focuses on clean code, security, performance, and building software that solves real business problems.
 
-  Databases                           MySQL, MongoDB, Redis, SQLite
+- 🔭 Working on enterprise applications and backend systems
+- 💻 Primary focus: PHP, Laravel, MySQL and REST APIs
+- ⚙️ Additional experience: Node.js, Express.js and MongoDB
+- 🏗️ Interested in ERP systems, application architecture and integrations
+- 🌍 Based in Pakistan | Open to remote opportunities
 
-  APIs & Security                     REST APIs, Laravel Sanctum, JWT,
-                                      OAuth, RBAC, Webhooks
+---
 
-  Laravel                             Eloquent ORM, queues, jobs, events,
-                                      middleware, validation, policies
+## 🧰 Technical Expertise
 
-  Architecture                        MVC, Service Layer, Repository
-                                      Pattern, modular application design
+<div align="center">
 
-  Integrations                        Stripe, PayPal, Twilio, Firebase,
-                                      WhatsApp integrations
+### Backend Development
 
-  DevOps & Tools                      Git, GitHub, Docker, Linux, Nginx,
-                                      Apache, GitHub Actions, Postman
-  -----------------------------------------------------------------------
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
 
-## What I Build
+### Frontend Development
 
--   **Business and ERP applications** --- operational workflows, HR,
-    billing, invoicing, and management modules.
--   **Backend systems and REST APIs** --- structured endpoints,
-    authentication, authorisation, and integrations.
--   **Database-driven applications** --- schema design, indexing, query
-    optimisation, and reliable data workflows.
--   **Payment and communication integrations** --- payment gateways,
-    webhooks, messaging, and notification services.
--   **Application maintenance** --- debugging, refactoring, performance
-    improvements, and deployment support.
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind" />
 
-## Selected Work
+### Databases
 
-### SmartO --- Enterprise Management Portal
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite" />
 
-**Laravel · PHP · MySQL · JavaScript · Bootstrap**
+### DevOps & Development Tools
 
-A business management portal with modules and workflows for HR
-operations, attendance with geofence verification, invoice processing,
-field engineer management, project operations, and role-based access
-control.
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,aws,vscode,postman" />
 
-### ERP & Business Workflow Applications
+</div>
 
-**Laravel · MySQL · Redis · Stripe · PayPal · Twilio**
+### Additional Technologies
 
-Backend development for business workflows covering HR, billing, client
-operations, payment processing, subscriptions, webhooks, and
-communication integrations.
+| Category | Skills |
+|---|---|
+| Laravel | Eloquent ORM, Queues, Jobs, Events, Middleware, Policies, Sanctum |
+| Backend Architecture | MVC, Service Layer, Repository Pattern, Modular Applications |
+| API Development | REST APIs, JWT, OAuth, RBAC, Webhooks |
+| Database Engineering | Schema Design, Indexing, Query Optimisation, Database Relationships |
+| Integrations | Stripe, PayPal, Twilio, Firebase, WhatsApp Integrations |
+| Deployment | Linux, Nginx, Apache, Docker, CI/CD, GitHub Actions |
 
-### Construction Progress Management
+---
 
-**Laravel · REST APIs · MySQL**
+## 🚀 Featured Projects
 
-A web application supporting construction progress records, operational
-dashboards, and role-based access to project information.
+### 01. SmartO — Enterprise Management Portal
 
-### WhatsApp Management Application
+<kbd>Laravel</kbd> <kbd>PHP</kbd> <kbd>MySQL</kbd> <kbd>JavaScript</kbd>
 
-**Node.js · Express.js · Baileys · Socket.IO · MongoDB**
+An enterprise management application developed for business operations and workforce management.
 
-A personal project exploring WhatsApp Web connectivity, real-time
-message updates, contact management, message history, and media
-handling.
+**Key modules:**
+- HR and workforce management
+- Geofence-based attendance verification
+- Invoice submission and financial workflows
+- Field engineer and project management
+- Role-based permissions and access control
+- Reporting and operational workflows
 
-> Project descriptions are summaries. Please link each project to its
-> public repository only if that repository is available and the
-> description matches its current implementation.
+### 02. ERP & Business Workflow Applications
 
-## GitHub Activity
+<kbd>Laravel</kbd> <kbd>MySQL</kbd> <kbd>Redis</kbd> <kbd>Stripe</kbd> <kbd>PayPal</kbd>
 
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=sayedhurhussain&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedhurhussain&layout=compact&hide_border=true&langs_count=6" alt="Most used languages" />`{=html}
-:::
+Backend development for business applications involving:
 
-::: {align="center"}
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedhurhussain&hide_border=true" alt="GitHub contribution streak" />`{=html}
-:::
+- HR and employee management
+- Billing and client management
+- Payment gateway integrations
+- Subscription and webhook processing
+- SMS and communication integrations
 
-## Let's Connect
+### 03. Construction Progress Management
 
-I'm interested in working with teams that value clean code, thoughtful
-engineering, and practical software solutions.
+<kbd>Laravel</kbd> <kbd>REST API</kbd> <kbd>MySQL</kbd>
 
--   **Email:** <sayedhurhussain12@gmail.com>
--   **LinkedIn:**
-    [linkedin.com/in/sayedhurhussain](https://linkedin.com/in/sayedhurhussain)
--   **GitHub:**
-    [github.com/sayedhurhussain](https://github.com/sayedhurhussain)
+A construction management application supporting:
 
-------------------------------------------------------------------------
+- Daily construction progress records
+- Project information management
+- Operational dashboards
+- Role-based access control
 
-::: {align="center"}
-*Thanks for visiting my profile.*
-:::
+### 04. WhatsApp Management Application
+
+<kbd>Node.js</kbd> <kbd>Express.js</kbd> <kbd>Baileys</kbd> <kbd>Socket.IO</kbd> <kbd>MongoDB</kbd>
+
+A personal project exploring WhatsApp Web integration and real-time messaging.
+
+- WhatsApp Web connectivity
+- Contact management
+- Real-time message updates
+- Message history
+- Media handling
+
+---
+
+## 📌 Public Repositories
+
+<div align="center">
+
+<a href="https://github.com/sayedhurhussain/laravel-meeting-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhurhussain&repo=laravel-meeting-system&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/sayedhurhussain/material-dashboard-react-nodejs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayedhurhussain&repo=material-dashboard-react-nodejs&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sayedhurhussain&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedhurhussain&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+<br/>
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedhurhussain&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 💡 Engineering Principles
+
+- **Clean Architecture:** Keep application responsibilities organised and maintainable.
+- **Performance:** Write efficient database queries and optimise application workflows.
+- **Security:** Apply authentication, authorisation, validation, and secure API practices.
+- **Maintainability:** Prefer reusable components and well-structured code.
+- **Problem Solving:** Understand the actual problem before choosing a technical solution.
+
+---
+
+## 🤝 Let's Work Together
+
+I'm interested in opportunities involving Laravel, PHP backend engineering, API development, and enterprise application development.
+
+<div align="center">
+
+<a href="mailto:sayedhurhussain12@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT%20ME-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/sayedhurhussain">
+  <img src="https://img.shields.io/badge/CONNECT%20ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sayedhurhussain&label=PROFILE%20VIEWS&color=0E75B6&style=flat" />
+
+<br/><br/>
+
+*Thanks for visiting my GitHub profile.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
+
+</div>
